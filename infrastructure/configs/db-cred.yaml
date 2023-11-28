@@ -7,7 +7,7 @@ kind: Secret
 metadata:
     creationTimestamp: null
     name: db-creds
-    namespace: defautl
+    namespace: default
 sops:
     kms: []
     gcp_kms: []
